@@ -1,5 +1,4 @@
-# Underscoring The Value Of The Underscore (_) in Python:
-# A Multipurpose Syntax
+# Underscoring The Value Of The Underscore (_) in Python: A Multipurpose Syntax
 
 ## Basic Convention: Ignoring Returned Values
 
